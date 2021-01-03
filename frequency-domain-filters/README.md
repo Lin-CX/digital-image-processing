@@ -92,6 +92,12 @@ for u=1:PQ(1)
 end
 ```
 
+* High-boost Filter  Formula
+
+<div  align="center"><kbd>    
+    <img src="./images/High_boos_Filter.png" align=center />
+</kbd></div><br>
+
 * D0이 70이고 n은 2인 Butterworth LPF를 사용해서 Highpass Filters를 구합니다. 아래 그림은 k가 10으로 조정되었을 때 나오는 그림입니다. 
 
   <div  align="center"><kbd>    
@@ -151,6 +157,12 @@ for u=1:PQ(1)
     end
 end
 ```
+
+* Notch filter Formula
+
+<div  align="center"><kbd>    
+    <img src="./images/Notch_filter.png" align=center />
+</kbd></div><br>
 
 * Notch의 위치가 uk와 vk에 저장되어 있고 각 notch의 D0또 D0k에 저장되어 있습니다. 위의 코드를 실행하면 나오는 그림은 아래와 같습니다.
 
