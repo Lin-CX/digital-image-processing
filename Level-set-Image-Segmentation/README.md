@@ -16,7 +16,7 @@
 
 ### 실행법
 
-Repository를 Clone해서 각 함수 파일을 Matlab로 실행하면 됨.
+Repository를 Clone해서 assign_3_skeleton라는 파일을 Matlab로 실행하면 됨.
 
 ### 📖**assign_3_skeleton**
 
