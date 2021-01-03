@@ -8,17 +8,17 @@
       <img src="./images/Geodesic_Active_Contour_formulation.png" align=center width="50%" />
   </div><br>
 
-### 🎈실행결과 (n = 10, 100, 200, 400)
+### 🎈 실행결과 (n = 10, 100, 200, 400)
 
 <img src="./images/image1.png" align=center width="25%" /><img src="./images/image2.png" align=center width="25%" /><img src="./images/image3.png" align=center width="25%" /><img src="./images/image4.png" align=center width="25%" />
 
 
 
-### 실행법
+### 📖 실행법
 
 Repository를 Clone해서 assign_3_skeleton라는 파일을 Matlab로 실행하면 됨.
 
-### 📖**assign_3_skeleton**
+### 📖 **assign_3_skeleton**
 
 * assign_3_skeleton에서 해야 하는 것은 g(I)를 계산하는 것입니다.
 
@@ -73,7 +73,7 @@ g = 1 ./ (1+(gradient_I.^p));
 
 
 
-### **📖levelset_update**
+### **📖 levelset_update**
 
 * levelset_update에서 gradient를 계산하는 함수를 만들었습니다. 위와 같은 central diff.를 구현하는 gra 함수입니다.
 

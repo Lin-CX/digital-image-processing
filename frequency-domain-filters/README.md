@@ -10,7 +10,7 @@
 
 Repository를 Clone해서 각 함수 파일을 Matlab로 실행하면 됨.
 
-### 📖**myLPF**
+### 📖 **myLPF**
 
 * 아래는 Butterworth LPF를 구현한 코드입니다.
 
@@ -70,7 +70,7 @@ end
 
 
 
-### 📖**myHBF**
+### 📖 **myHBF**
 
 ```matlab
 % Creating Frequency filter and apply - High pass filter
