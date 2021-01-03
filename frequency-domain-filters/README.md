@@ -72,7 +72,7 @@ end
 
 ### 📖**myHBF**
 
-```
+```matlab
 % Creating Frequency filter and apply - High pass filter
 %
 p2 = floor(dimX);     % P/2
@@ -129,7 +129,7 @@ end
 
 ### 📖**myNotch**
 
-```
+```matlab
 % Creating Frequency filter and apply - High pass filter
 %
 p2 = floor(dimX);     % P/2
