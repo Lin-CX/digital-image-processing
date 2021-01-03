@@ -105,7 +105,7 @@ g = 1 ./ (1+(gradient_I.^p));
 
 * dt가 0.8으로 설정하면 그림은 niter이 300이 될 때부터 더이상 변하지 않아서 0.6으로 설정했습니다. 0.8으로 해야하면 8줄을 빼시면 됩니다.
 
-* gra()함수를 이용해 dPhi의 gradient를 얻어서 magnitude를 계산하고(10 - 11 줄) gradient를 자기 magnitude를 나눕니다(14 -15줄).
+* gra()함수를 이용해 dPhi의 gradient를 얻어서 magnitude를 계산하고(10 - 11 줄) gradient를 자기 magnitude를 나눕니다(14 - 15줄).
 
   <img src="./images/image10.png" width="55%" />
 
