@@ -119,6 +119,8 @@ g = 1 ./ (1+(gradient_I.^p));
 
   <img src="./images/image11.png" />
 
-* 수업에서 kappa는 second order derivative라고 했는데 이 부분 코드또 짰습니다. 다만 저는 첫번째 방법으로 실행하는 코드의 boundary가 더 명확하다고 생각해서 첫번째 방법을 사용했습니다.
+  
+
+##### 수업에서 kappa는 second order derivative라고 했는데 이 부분 코드또 짰습니다. 다만 저는 첫번째 방법으로 실행하는 코드의 boundary가 더 명확하다고 생각해서 첫번째 방법을 사용했습니다.
 
 <img src="./images/image12.png" />
