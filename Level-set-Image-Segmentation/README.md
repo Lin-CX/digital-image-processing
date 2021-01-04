@@ -1,6 +1,6 @@
 # 📕 Implement a level-set image segmentation method using Matlab
 
-* Implement a level-set image segmentation method to fetch the boundary of item.
+* Implement a level-set image segmentation method to fetch the boundary of item(s).
 
 * Algorithm: Geodesic Active Contour formulation of level set method (이 알고리즘에 대해 더 자세한 내용은 repository에 있는 논문 파일을 참고할 수 있음)
 
